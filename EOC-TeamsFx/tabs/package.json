@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "dependencies": {
+        "@azure/msal-node": "^2.6.3",
         "@fluentui/react": "^8.48.0",
         "@fluentui/react-components": "^9.25.1",
         "@fluentui/react-northstar": "0.66.4",
@@ -15,6 +16,7 @@
         "@microsoft/teamsfx": "0.4.0",
         "@react-pdf/renderer": "3.1.12",
         "@types/loadable__component": "^5.13.4",
+        "@types/react-bootstrap-table": "^4.3.18",
         "axios": "^0.21.1",
         "bingmaps-react": "^1.2.10",
         "bootstrap": "5.2.3",
@@ -62,9 +64,9 @@
         "moment-timezone": ">=0.5.35",
         "jsonwebtoken": ">=9.0.0",
         "follow-redirects": ">=1.14.8",
-        "@restart/ui": "1.4.1",        
+        "@restart/ui": "1.4.1",
         "@react-pdf/pdfkit": "3.0.2",
-        "@react-pdf/image" :"2.2.1"
+        "@react-pdf/image": "2.2.1"
     },
     "devDependencies": {
         "@babel/traverse": ">=7.23.2",
